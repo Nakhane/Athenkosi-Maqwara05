@@ -1,9 +1,15 @@
-# Athenkosi-Maqwara05
+# Password Generator
 
-## Password Generator
+###    Generates a random password based on the user-defined length.
+###    Checks if the length is at least 6 for security reasons.
+###    Updates the password field and its strength label.
 
-### generate a secure random password of a given length.
-### param length: The length of the password (default is 16)
-### return: A randomly generated password
+## Weak Passwword
+![alt text](image-1.png)
 
-![alt text](image.png)
+## Strong Password
+![alt text](image-2.png)
+
+## Very Strong Password
+![alt text](image-3.png)
+
